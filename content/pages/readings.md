@@ -6,23 +6,294 @@ uid: e5ef5cd5-f62d-ef4a-06ce-d60b8cb061ab
 
 Readings in this course are assigned for the entire week, as shown below. The section numbers listed below are from the course textbook: Nilson, A. H. _Design of Concrete Structures._ 13th ed. McGraw Hill, 2004.
 
-| WEEK # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Lecture 1 -Introduction  {{< br >}}Lecture 2 -Planning and Design Process | &nbsp; |
-| 2 | Lecture 3 -Materials, Loads, and Design Safety  {{< br >}}Lecture 4 -Behavior and Properties of Concrete and Steel  {{< br >}}Lecture 5 -Wind and Earthquake Loads | 1.3-1.7  {{< br >}}  {{< br >}}1.8, 2.1-2.9, 2.12-2.14  {{< br >}}  {{< br >}}**Handouts** {{< br >}}{{< br >}} *   Seismic Isolation{{< br >}}*   Failure Case Study: John Hancock Building, Boston, MA{{< br >}}*   Case Study: Structural Design of World Trade Center, Manhattan, NY{{< br >}}*   International Building Code: Wind and Earthquake Loads {{< br >}}{{< br >}}  |
-| 3 | Recitation 1 -Wind and Earthquake Loads  {{< br >}}Lecture 6 -Design of Reinforced Concrete Beams for Flexure  {{< br >}}Lecture 7 -Design of Reinforced Concrete Beams for Flexure | Recitation Notes 1  {{< br >}}  {{< br >}}3.1-3.4  {{< br >}}  {{< br >}}**Handouts** {{< br >}}{{< br >}} *   Design Aids: Bar Areas and Spacing{{< br >}}*   ACI Code Provisions for Development of Tension Reinforcements {{< br >}}{{< br >}} 3.5-3.8 |
-| 4 | Lecture 8 -Design of Reinforced Concrete Beams for Shear  {{< br >}}Lecture 9 -Guest Lecture: Project Introduction | 4.1-4.5 |
-| 5 | Recitation 2 -Flexural Analysis and Design of Beams  {{< br >}}Lecture 10 -Design of Reinforced Concrete Beams for Shear  {{< br >}}Lecture 11 -Project Hour: Group Presentations on Site Visit Observation | Recitation Notes 2  {{< br >}}  {{< br >}}**Handouts** {{< br >}}{{< br >}} *   Detailing for Ductility: Lessons from Earthquakes{{< br >}}*   Shrinkage, Expansion, and Plastic Dimensional Changes {{< br >}}{{< br >}}  |
-| 6 | Recitation 3 -Shear in Beams  {{< br >}}Lecture 12 -Bond, Anchorage, and Serviceability  {{< br >}}Lecture 13 -Bond, Anchorage, and Serviceability Project Discussions | Recitation Notes 3  {{< br >}}  {{< br >}}5.1-5.8, 6.1-6.7 |
-| 7 | Lecture 14 -Reinforced Concrete Columns  {{< br >}}Lecture 15 -Discussion of Project Tasks | 1.9, 8.1-8.5 |
-| 8 | Lecture 16 -Exam 1 Review  {{< br >}}Lecture 17 -Exam 1  {{< br >}}Lecture 18 -Reinforced Concrete Columns | Recitation Notes 4  {{< br >}}Exam Review Summary |
-| 9 | Recitation 4 -Reinforced Concrete Columns and Slabs  {{< br >}}Lecture 19 -Special Topic Lecture: Prestressed Concrete  {{< br >}}Lecture 20 -Reinforced Concrete Slabs | 8.6-8.11  {{< br >}}  {{< br >}}**Handout** {{< br >}}{{< br >}} *   ACI Chapter 18: Prestressed Concrete {{< br >}}{{< br >}}  |
-| 10 | Recitation 5 -Short Columns and Slab Systems  {{< br >}}Lecture 21 -Special Lecture: Bridge Design— Beyond the Calculations  {{< br >}}Lecture 22 -Introduction to Steel Design | Recitation Notes 5 - Part I & II  {{< br >}}  {{< br >}}13.1-13.3, 13.4-13.8 |
-| 11 | Lecture 23 -Tension Members and Connections  {{< br >}}Lecture 24 -Group Presentations | **Handouts** {{< br >}}{{< br >}} *   Load and Resistance Factor Design (LRFD) Specifications for Structural Steel Buildings{{< br >}}*   Failure Case Studies Involving Connections{{< br >}}*   Section Tables{{< br >}}*   Tension Members {{< br >}}{{< br >}}  |
-| 12 | Recitation 6 -Tension Members and Connections  {{< br >}}Lecture 25 -Compression Members  {{< br >}}Lecture 26 -Guest Lecture: Prestressed Concrete Systems | Recitation Notes 6  {{< br >}}  {{< br >}}**Handout** {{< br >}}{{< br >}} *   Columns Under Axial Load {{< br >}}{{< br >}}  |
-| 13 | Recitation 7 -Compression Members  {{< br >}}Lecture 27 -Bending Members | Recitation Notes 7  {{< br >}}  {{< br >}}**Handout** {{< br >}}{{< br >}} *   Beams {{< br >}}{{< br >}}  |
-| 14 | Lecture 28 -Exam 2 Review  {{< br >}}Lecture 29 -Exam 2  {{< br >}}Lecture 30 -Structural Systems |  {{< br >}}{{< br >}} Exam Review Summary {{< br >}}{{< br >}} **Handouts** {{< br >}}{{< br >}} *   Members under Combined Forces{{< br >}}*   Misuse of Computers by Structural Engineers - A Clear and Present Danger {{< br >}}{{< br >}}  |
-| 15 | Lecture 31 -Final Project Presentations  {{< br >}}Lecture 32 -Final Project Presentations |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 1 -Introduction  
+Lecture 2 -Planning and Design Process
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 3 -Materials, Loads, and Design Safety  
+Lecture 4 -Behavior and Properties of Concrete and Steel  
+Lecture 5 -Wind and Earthquake Loads
+{{< tdclose >}}
+{{< tdopen >}}
+1.3-1.7  
+  
+1.8, 2.1-2.9, 2.12-2.14  
+  
+**Handouts**
+
+*   Seismic Isolation
+*   Failure Case Study: John Hancock Building, Boston, MA
+*   Case Study: Structural Design of World Trade Center, Manhattan, NY
+*   International Building Code: Wind and Earthquake Loads
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 1 -Wind and Earthquake Loads  
+Lecture 6 -Design of Reinforced Concrete Beams for Flexure  
+Lecture 7 -Design of Reinforced Concrete Beams for Flexure
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation Notes 1  
+  
+3.1-3.4  
+  
+**Handouts**
+
+*   Design Aids: Bar Areas and Spacing
+*   ACI Code Provisions for Development of Tension Reinforcements
+
+3.5-3.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 8 -Design of Reinforced Concrete Beams for Shear  
+Lecture 9 -Guest Lecture: Project Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+4.1-4.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 2 -Flexural Analysis and Design of Beams  
+Lecture 10 -Design of Reinforced Concrete Beams for Shear  
+Lecture 11 -Project Hour: Group Presentations on Site Visit Observation
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation Notes 2  
+  
+**Handouts**
+
+*   Detailing for Ductility: Lessons from Earthquakes
+*   Shrinkage, Expansion, and Plastic Dimensional Changes
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 3 -Shear in Beams  
+Lecture 12 -Bond, Anchorage, and Serviceability  
+Lecture 13 -Bond, Anchorage, and Serviceability Project Discussions
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation Notes 3  
+  
+5.1-5.8, 6.1-6.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 14 -Reinforced Concrete Columns  
+Lecture 15 -Discussion of Project Tasks
+{{< tdclose >}}
+{{< tdopen >}}
+1.9, 8.1-8.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 16 -Exam 1 Review  
+Lecture 17 -Exam 1  
+Lecture 18 -Reinforced Concrete Columns
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation Notes 4  
+Exam Review Summary
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 4 -Reinforced Concrete Columns and Slabs  
+Lecture 19 -Special Topic Lecture: Prestressed Concrete  
+Lecture 20 -Reinforced Concrete Slabs
+{{< tdclose >}}
+{{< tdopen >}}
+8.6-8.11  
+  
+**Handout**
+
+*   ACI Chapter 18: Prestressed Concrete
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 5 -Short Columns and Slab Systems  
+Lecture 21 -Special Lecture: Bridge Design— Beyond the Calculations  
+Lecture 22 -Introduction to Steel Design
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation Notes 5 - Part I & II  
+  
+13.1-13.3, 13.4-13.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 23 -Tension Members and Connections  
+Lecture 24 -Group Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+**Handouts**
+
+*   Load and Resistance Factor Design (LRFD) Specifications for Structural Steel Buildings
+*   Failure Case Studies Involving Connections
+*   Section Tables
+*   Tension Members
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 6 -Tension Members and Connections  
+Lecture 25 -Compression Members  
+Lecture 26 -Guest Lecture: Prestressed Concrete Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation Notes 6  
+  
+**Handout**
+
+*   Columns Under Axial Load
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 7 -Compression Members  
+Lecture 27 -Bending Members
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation Notes 7  
+  
+**Handout**
+
+*   Beams
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 28 -Exam 2 Review  
+Lecture 29 -Exam 2  
+Lecture 30 -Structural Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exam Review Summary
+
+**Handouts**
+
+*   Members under Combined Forces
+*   Misuse of Computers by Structural Engineers - A Clear and Present Danger
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 31 -Final Project Presentations  
+Lecture 32 -Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional References
 ---------------------
