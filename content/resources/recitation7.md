@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-051-structural-engineering-design-fall-2003/702c7e668b70fd4f9d0b17b3ee45aea1_recitation7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 parent_uid: 6483f495-6897-5aac-f544-daf637e96543
 resourcetype: Document
 title: recitation7.pdf

@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-051-structural-engineering-design-fall-2003/5119912018ea0799ba43c036ed9900c9_probset_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2f2f4875-d0fc-6866-c24f-4a967e39f744
 resourcetype: Document
 title: probset_6.pdf
